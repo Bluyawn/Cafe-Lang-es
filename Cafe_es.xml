@@ -438,12 +438,12 @@ Duración del bronce: {3} Horas"  />
 			<text id="dialogwin_coop_timeleft" name="Tiempo restante:"  />
 			<text id="dialogwin_coop_txt_noactive" name="No hay Co-Ops activos en este momento. ¿Por qué no empiezas uno tú mismo?"  />
 			<text id="dialogwin_coop_txt_title" name="CO-OPS"  />
-			<text id="dialogwin_decoshophelp_copy" name="Si arrastras los muebles y adornos a este panel en vez de a la Caja Registradora, se guardarán. Puedes volver a utilizarlos si los arrastras hacia tu Café, lo cual no te costará dinero. Puedes ver la cantidad de items en el sticker rojo pegado al lado."  />
-			<text id="dialogwin_decoshophelp_copy_1" name="Los Muebles y Accesorios tienen un Valor de Lujo. Sumando todo en conjunto, esto define el Valor de Lujo total de tu Café! ¿Que tan lujosa es tu Cafetería?"  />
+			<text id="dialogwin_decoshophelp_copy" name="Si arrastras los Muebles y Adornos a este panel en vez de a la Caja Registradora, se guardarán. Puedes volver a utilizarlos si los arrastras hacia tu Café, lo cual no te costará dinero. Puedes ver la cantidad de items en el sticker rojo pegado al lado."  />
+			<text id="dialogwin_decoshophelp_copy_1" name="Los Muebles y Adornos tienen un Valor de Lujo. Sumando todo en conjunto, esto define el Valor de Lujo total de tu Café! ¿Que tan lujosa es tu Cafetería?"  />
 			<text id="dialogwin_decoshophelp_title" name="¿Almacenar Adornos?"  />
 			<text id="dialogwin_decoshophelp_title_1" name="¿Valor de Lujo?"  />
 			<text id="dialogwin_dishmastery_copy_0" name="¡Ganaste una Estrella por {0}!"  />
-			<text id="dialogwin_dishmastery_copy_1" name="¡Comparte tus Raciones extra con tus amigos!"  />
+			<text id="dialogwin_dishmastery_copy_1" name="¡Comparte tus Raciones extra con tus Amigos!"  />
 			<text id="dialogwin_dishmastery_info" name="¡Cada Maestría que ganes hará que tus Platos sean mejores!"  />
 			<text id="dialogwin_dishmastery_title" name="¡Nueva Estrella!"  />
 			<text id="dialogwin_fancycooking_title" name="¿Quieres sazonar el Plato con {0}?"  />
@@ -465,7 +465,7 @@ Duración del bronce: {3} Horas"  />
 			<text id="dialogwin_giftbox_mygifts_empty" name="No te han llegado más Regalos. Manda algunos a tus Amigos, quizá te regalen algo a cambio."  />
 			<text id="dialogwin_giftbox_remove" name="Desechar"  />
 			<text id="dialogwin_giftbox_send" name="Enviar"  />
-			<text id="dialogwin_giftbox_sendablegifts_empty" name="No hay más regalos por hoy."  />
+			<text id="dialogwin_giftbox_sendablegifts_empty" name="No hay más Regalos por hoy."  />
 			<text id="dialogwin_giftbox_title" name="¡Regalos!"  />
 			<text id="dialogwin_giftbox_use" name="Utilizar"  />
 			<text id="dialogwin_highscore_luxury" name="Lujo"  />
@@ -506,7 +506,7 @@ Duración del bronce: {3} Horas"  />
 			<text id="dialogwin_ingredient_fruits" name="Frutas"  />
 			<text id="dialogwin_ingredient_instore" name="x almacenado"  />
 			<text id="dialogwin_ingredient_meat" name="Carne"  />
-			<text id="dialogwin_ingredient_notinstock" name="¡Hoy no se encuentra disponible!"  />
+			<text id="dialogwin_ingredient_notinstock" name="¡No se encuentra disponible por hoy!"  />
 			<text id="dialogwin_ingredient_shoplayer" name="Almacén"  />
 			<text id="dialogwin_ingredient_storecapacity" name="Capacidad:"  />
 			<text id="dialogwin_ingredient_storeinused" name="En tu Refrigerador:"  />
@@ -520,9 +520,9 @@ Duración del bronce: {3} Horas"  />
 			<text id="dialogwin_levelup_copy_1" name="Tu recompensa:"  />
 			<text id="dialogwin_levelup_copy_2" name="Se ha activado para ti:"  />
 			<text id="dialogwin_levelup_title" name="SUBISTE UN NIVEL"  />
-			<text id="dialogwin_lonelyingredient_copy" name="Tu camarero ha encontrado una caja con un Ingrediente Misterioso\n\¡Compártelo con tus amigos!"  />
+			<text id="dialogwin_lonelyingredient_copy" name="Tu camarero ha encontrado una caja con un Ingrediente Misterioso.\n\¡Compártelo con tus amigos!"  />
 			<text id="dialogwin_lonelyingredient_title" name="¡Sorpresa!"  />
-			<text id="dialogwin_lonelytip_copy" name="Un cliente te ha dejado una gran propina ¡Compártela con tus amigos!"  />
+			<text id="dialogwin_lonelytip_copy" name="Un cliente te ha dejado una gran propina. ¡Compártela con tus amigos!"  />
 			<text id="dialogwin_lonelytip_title" name="¡Hurra!"  />
 			<text id="dialogwin_muffinman_beforebet" name="Haz tu apuesta. Si ganas, ganarás el doble."  />
 			<text id="dialogwin_muffinman_btn_again" name="¡Otra vez!"  />
@@ -538,113 +538,113 @@ Duración del bronce: {3} Horas"  />
 			<text id="dialogwin_muffinman_toohighbet" name="¡No puedes apostar tanto! La apuesta máxima es de {0} de Oro y Dólares Café {1}!"  />
 			<text id="dialogwin_muffinman_wonbet" name="¡Yumm! ¡Has encontrado el Relleno!
 ¡Inténtalo otra vez!"  />
-			<text id="dialogwin_nomoney_avatarchange" name="¡No tienes suficiente oro para cambiar de atuendo!"  />
-			<text id="dialogwin_nomoney_clean_copy" name="No tienes suficientes Dólares Café para limpiar tu cocina."  />
-			<text id="dialogwin_nomoney_copy" name="¡Uy! No tienes suficientes Dólares Café/ Oro para comprar este artículo"  />
-			<text id="dialogwin_nomoney_courier" name="¡No tienes suficientes Dólares Café/ Oro para pagar el expreso!"  />
-			<text id="dialogwin_nomoney_instantcook_copy" name="No tines suficiente oro para la Cocina Instantánea."  />
+			<text id="dialogwin_nomoney_avatarchange" name="¡No tienes Oro Suficiente para cambiar de Atuendo!"  />
+			<text id="dialogwin_nomoney_clean_copy" name="No tienes suficientes Dólares Café para limpiar tu Cocina."  />
+			<text id="dialogwin_nomoney_copy" name="¡Uy! No tienes suficientes Dólares Café/ Oro para comprar este Adorno."  />
+			<text id="dialogwin_nomoney_courier" name="¡No tienes suficientes Dólares Café/ Oro para pagar el Expreso!"  />
+			<text id="dialogwin_nomoney_instantcook_copy" name="¡No tienes suficiente oro para la Cocina Instantánea!"  />
 			<text id="dialogwin_nomoney_moregold" name="Comprar Dólares Café/ Oro"  />
-			<text id="dialogwin_nomoney_npchire" name="¡No tienes oro suficiente para contratar otro camarero!"  />
+			<text id="dialogwin_nomoney_npchire" name="¡No tienes suficiente Oro para contratar otro Mesero!"  />
 			<text id="dialogwin_nomoney_ok" name="OK"  />
-			<text id="dialogwin_nomoney_title" name="No tienes suficiente Dólares Café/ Oro"  />
-			<text id="dialogwin_noreward_copy" name="Otro jugador consiguió el premio antes que ti."  />
+			<text id="dialogwin_nomoney_title" name="¡No tienes suficientes Dólares Café/ Oro!"  />
+			<text id="dialogwin_noreward_copy" name="Otro jugador consiguió el premio antes que tú."  />
 			<text id="dialogwin_noreward_title" name="¡Qué lástima!"  />
-			<text id="dialogwin_perfectdish_copy" name="¡Has perfeccionado tu {0}!\n!Comparte más raciones con tus amigos!"  />
+			<text id="dialogwin_perfectdish_copy" name="¡Has perfeccionado tu {0}!\n¡Comparte más Raciones con tus Amigos!"  />
 			<text id="dialogwin_perfectdish_title" name="¡Perfecto!"  />
-			<text id="dialogwin_presentreceived_copy" name="Tu regalo de bienvenida de {0} se ha agregado a tu cuenta."  />
+			<text id="dialogwin_presentreceived_copy" name="¡Tu regalo de bienvenida de {0} se ha agregado a tu Cuenta!"  />
 			<text id="dialogwin_presentreceived_title" name="¡Regalo recibido!"  />
 			<text id="dialogwin_presentreminder_btn_send" name="Enviar"  />
-			<text id="dialogwin_presentreminder_copy1" name="¡Sólo haz clic en el enlace de oro en el correo electrónico y obtén {0} oro!"  />
-			<text id="dialogwin_presentreminder_copy2" name="Sí, envía {0} oro a mi dirección de correo electrónico ahora:"  />
-			<text id="dialogwin_presentreminder_title" name="¡{0} oro para ti!"  />
-			<text id="dialogwin_receiveitem_copy" name="El premio está en tu caja de regalos"  />
+			<text id="dialogwin_presentreminder_copy1" name="¡Sólo haz clic en el enlace dorado en el Correo Electrónico y obtén {0} de Oro!"  />
+			<text id="dialogwin_presentreminder_copy2" name="Sí, envía {0} de Oro a mi dirección de Correo Electrónico ahora:"  />
+			<text id="dialogwin_presentreminder_title" name="¡{0} de Oro para ti!"  />
+			<text id="dialogwin_receiveitem_copy" name="El Premio está en tu caja de Regalos"  />
 			<text id="dialogwin_receiveitem_title" name="¡Hurra!"  />
-			<text id="dialogwin_receivemoney_copy" name="Tu premio se ha acreditado"  />
+			<text id="dialogwin_receivemoney_copy" name="¡Tu Premio se ha acreditado!"  />
 			<text id="dialogwin_receivemoney_title" name="¡Felicitaciones!"  />
 			<text id="dialogwin_refreshfood_btn_clean" name="Limpiar"  />
 			<text id="dialogwin_refreshfood_btn_refresh" name="Guardar comida"  />
 			<text id="dialogwin_refreshfood_title" name="¿Quieres guardar la preparación?"  />
-			<text id="dialogwin_register_agbs" name="Aceptar condiciones y términos de uso"  />
-			<text id="dialogwin_register_mail" name="Correo electrónico"  />
+			<text id="dialogwin_register_agbs" name="Aceptar Términos y Condiciones de Uso"  />
+			<text id="dialogwin_register_mail" name="Correo Electrónico"  />
 			<text id="dialogwin_register_password" name="Contraseña"  />
-			<text id="dialogwin_register_title" name="Registrarse"  />
-			<text id="dialogwin_sendgift_send" name="enviar"  />
-			<text id="dialogwin_sendgift_titel" name="Enviar a..."  />
-			<text id="dialogwin_settings_email" name="Bloquear recepción de correos electrónicos."  />
+			<text id="dialogwin_register_title" name="Registro"  />
+			<text id="dialogwin_sendgift_send" name="Enviar"  />
+			<text id="dialogwin_sendgift_titel" name="Enviar a:"  />
+			<text id="dialogwin_settings_email" name="Bloquear recepción de Correos Electrónicos."  />
 			<text id="dialogwin_settings_general" name="General"  />
 			<text id="dialogwin_settings_high" name="Alto"  />
 			<text id="dialogwin_settings_low" name="Bajo"  />
 			<text id="dialogwin_settings_medium" name="Medio"  />
 			<text id="dialogwin_settings_quality" name="Calidad"  />
-			<text id="dialogwin_shippingconfirmation_copy1" name="Haz clic en el enlace del correo electrónico para juntar el oro."  />
-			<text id="dialogwin_shippingconfirmation_copy2" name="¿No te ha llegado el correo electrónico todavía? Puede tardar un par de minutos. Si no lo encuentras en el correo basura, nuestro equipo estará feliz de ayudarte."  />
-			<text id="dialogwin_shippingconfirmation_title" name="¡Correo electrónico de oro en camino!"  />
+			<text id="dialogwin_shippingconfirmation_copy1" name="Haz clic en el enlace del Correo Electrónico para conseguir el oro."  />
+			<text id="dialogwin_shippingconfirmation_copy2" name="¿No te ha llegado el Correo Electrónico todavía? Puede tardar un par de minutos. Si no lo encuentras en el Spam, nuestro Equipo estará feliz de ayudarte."  />
+			<text id="dialogwin_shippingconfirmation_title" name="¡El Correo electrónico de oro está en camino!"  />
 			<text id="dialogwin_smoothiemakerhelp_copy" name="Aquí podrás mezclar y servir bebidas a tus clientes.
-Elege una bebida y haz clic en &quot;mezclar&quot;.
+Elige un Batido y haz clic en &quot;mezclar&quot;.
 
-Basta con que hagas clic en un cliente &quot;sediento&quot; antes de que se siente.
-Los clientes &quot;sedientos&quot; tienen un ícono sobre sus cabezas."  />
-			<text id="dialogwin_smoothiemakerhelp_title" name="¿Cómo hago para vender bebidas?"  />
-			<text id="dialogwin_smoothiemaker_allserved_copy" name="¡Serviste todas las bebidas!
-Espera a que el Frosty esté vacío para preparar nuevas bebidas."  />
-			<text id="dialogwin_smoothiemaker_nofrosty_btn_toshop" name="A la tienda"  />
-			<text id="dialogwin_smoothiemaker_nofrosty_copy" name="Debes comprar un Frosty para poder servir bebidas."  />
-			<text id="dialogwin_smoothiemaker_nomoney_copy" name="¡No tienes suficientes Cafédollars / Oro para preparar esta bebida!"  />
-			<text id="dialogwin_smoothiemaker_noservings_copy" name="No te quedan bebidas. ¡Prepárate algo!"  />
-			<text id="dialogwin_smoothiemaker_onlyonebuy" name="Puedes tener un solo Frosty en tu Café."  />
-			<text id="dialogwin_smoothiemaker_txt_title" name="FROSTY"  />
+Basta con que hagas clic en un Cliente &quot;sediento&quot; antes de que se siente.
+Los Clientes &quot;sedientos&quot; tienen un ícono sobre sus cabezas."  />
+			<text id="dialogwin_smoothiemakerhelp_title" name="¿Cómo hago para vender Batidos?"  />
+			<text id="dialogwin_smoothiemaker_allserved_copy" name="¡Serviste todos los Batidos!
+Espera a que la Granizadora esté vacía para preparar nuevos Batidos."  />
+			<text id="dialogwin_smoothiemaker_nofrosty_btn_toshop" name="A la Tienda"  />
+			<text id="dialogwin_smoothiemaker_nofrosty_copy" name="Debes comprar una Granizadora para poder servir Batidos."  />
+			<text id="dialogwin_smoothiemaker_nomoney_copy" name="¡No tienes suficientes Dólares Café/ Oro para preparar este Batido!"  />
+			<text id="dialogwin_smoothiemaker_noservings_copy" name="No te quedan Batidos. ¡Prepara algunos!"  />
+			<text id="dialogwin_smoothiemaker_onlyonebuy" name="Sólo puedes tener una Granizadora en tu Café."  />
+			<text id="dialogwin_smoothiemaker_txt_title" name="Granizadora"  />
 			<text id="dialogwin_staffmanagement_btn_fire" name="Despedir"  />
-			<text id="dialogwin_staffmanagement_favorite" name="¿Tarea?"  />
+			<text id="dialogwin_staffmanagement_favorite" name="¿Labor?"  />
 			<text id="dialogwin_staffmanagement_favorite0" name="Quitar platos"  />
 			<text id="dialogwin_staffmanagement_favorite100" name="Servir"  />
 			<text id="dialogwin_staffmanagement_fire" name="¿Despedir?"  />
-			<text id="dialogwin_staffmanagement_renamecopy" name="Ponle un nombre nuevo a tu camarero:"  />
-			<text id="dialogwin_staffmanagement_renametitle" name="¿Cambiar de nombre?"  />
+			<text id="dialogwin_staffmanagement_renamecopy" name="Ponle un nuevo Nombre a tu Mesero:"  />
+			<text id="dialogwin_staffmanagement_renametitle" name="¿Cambiarle el Nombre?"  />
 			<text id="dialogwin_staff_hire" name="Contratar"  />
 			<text id="dialogwin_staff_management" name="Administrar"  />
-			<text id="dialogwin_staff_new" name="Camarero nuevo"  />
-			<text id="dialogwin_staff_title" name="Tus camareros"  />
-			<text id="dialogwin_welcomeback_text" name="Recibes un regalo: {0} monedas de oro."  />
-			<text id="dialogwin_welcomeback_text2" name="Recibirás como regalo: {0} oro y 3 ingredientes extravagantes."  />
+			<text id="dialogwin_staff_new" name="Nuevo Mesero"  />
+			<text id="dialogwin_staff_title" name="Tus Meseros"  />
+			<text id="dialogwin_welcomeback_text" name="Has recibido un Regalo: {0} monedas de Oro."  />
+			<text id="dialogwin_welcomeback_text2" name="Recibirás como regalo: {0} oro y 3 Ingredientes Exóticos."  />
 			<text id="dialogwin_welcomeback_text3" name=""  />
 			<text id="dialogwin_welcomeback_title" name="¡Bienvenido de vuelta{0}!"  />
-			<text id="dialogwin_wheeloffortune_beforespin" name="¡Gira la rueda de la fortuna y gana grandes premios!"  />
+			<text id="dialogwin_wheeloffortune_beforespin" name="¡Gira la Rueda de la Fortuna y gana grandes Premios!"  />
 			<text id="dialogwin_wheeloffortune_btn_go" name="¡Gira!"  />
-			<text id="dialogwin_wheeloffortune_btn_towheel" name="A la rueda"  />
-			<text id="dialogwin_wheeloffortune_copy1" name="¿Ya has girado la rueda de la fortuna hoy?"  />
+			<text id="dialogwin_wheeloffortune_btn_towheel" name="A la Rueda"  />
+			<text id="dialogwin_wheeloffortune_copy1" name="¿Ya has girado la Rueda de la Fortuna hoy?"  />
 			<text id="dialogwin_wheeloffortune_header" name="¡RUEDA DE FORTUNA!"  />
-			<text id="dialogwin_wheeloffortune_info" name="¡La primera vuelta cada día es gratis!"  />
-			<text id="dialogwin_wheeloffortune_info1" name="Cada giro extra te cuesta un Oro"  />
-			<text id="dialogwin_wheeloffortune_nomoney" name="¡No tienes suficiente oro para girar la rueda de la fortuna!"  />
-			<text id="dialogwin_wheeloffortune_noregister" name="Sólo los usuarios registrados pueden girar la rueda de la fortuna."  />
-			<text id="dialogwin_wheeloffortune_nospace" name="No hay lugar en la caja de regalos para tus premios. Haz un poco de lugar, luego podrás girar la rueda de la fortuna."  />
-			<text id="dialogwin_wheeloffortune_title" name="¡La rueda de la fortuna!"  />
-			<text id="dialogwin_wheeloffortune_tryagain" name="¡Prueba de nuevo!"  />
-			<text id="dialogwin_wheeloffortune_wonbet" name="¡Felicitaciones! Tu premio:"  />
+			<text id="dialogwin_wheeloffortune_info" name="¡La primera Vuelta cada día es Gratis!"  />
+			<text id="dialogwin_wheeloffortune_info1" name="Cada giro extra te cuesta una moneda de Oro."  />
+			<text id="dialogwin_wheeloffortune_nomoney" name="¡No tienes suficiente Oro para usar la Rueda de la Fortuna!"  />
+			<text id="dialogwin_wheeloffortune_noregister" name="Sólo Usuarios Registrados pueden usar la Rueda de la Fortuna."  />
+			<text id="dialogwin_wheeloffortune_nospace" name="No hay espacio en la Caja de Regalos para tus Premios. Haz un poco de espacio, y después podrás usar la Rueda de la Fortuna."  />
+			<text id="dialogwin_wheeloffortune_title" name="¡La Rueda de la Fortuna!"  />
+			<text id="dialogwin_wheeloffortune_tryagain" name="¡Inténtalo otra vez!"  />
+			<text id="dialogwin_wheeloffortune_wonbet" name="¡Felicitaciones! Has ganado:"  />
 			<text id="dialogwin_wheeloffortune_woncash" name="¡Felicitaciones! Ya hemos enviado tu premio."  />
-			<text id="dialogwin_wheeloffortune_wonfood" name="¡Felicitaciones! Encontrarás tu premio en la caja de regalos"  />
-			<text id="dialogwin_wheeloffortune_wongold" name="¡Has ganando el pozo de oro!"  />
-			<text id="dialogwin_wheeloffortune_wonitem" name="¡Felicitaciones! Encontrarás tu premio en el inventario"  />
+			<text id="dialogwin_wheeloffortune_wonfood" name="¡Felicitaciones! Encontrarás tu Premio en la Caja de Regalos."  />
+			<text id="dialogwin_wheeloffortune_wongold" name="¡Has ganando el Pozo de monedas de Oro!"  />
+			<text id="dialogwin_wheeloffortune_wonitem" name="¡Felicitaciones! Encontrarás tu Premio tu Inventario."  />
 		</dialogs>
 		<error_codes>
 			<text id="achievement_error" name="Logro"  />
 			<text id="achievement_errorcode_1" name="Error"  />
-			<text id="cafechat_errorcode_23" name="Tu función de chateo ha sido temporalmente desactivada por el administrador."  />
-			<text id="cafechat_errorcode_24" name="¡Por favor no llenes el chat de spam!"  />
-			<text id="cafewalk_errorcode_1" name="¡Cuidado!"  />
+			<text id="cafechat_errorcode_23" name="Tu función de Chat ha sido temporalmente desactivada por el Administrador."  />
+			<text id="cafechat_errorcode_24" name="¡Por favor no llenes el Chat de Spam!"  />
+			<text id="cafewalk_errorcode_1" name="¡Ten Cuidado!"  />
 			<text id="cafewalk_errorcode_23" name="No puedes ir a este lugar."  />
-			<text id="cafe_error" name="¡Cuidado!"  />
-			<text id="changepassword_error" name="Cambiar contraseña"  />
-			<text id="changepassword_errorcode_0" name="¡Tu contraseña ha cambiado exitosamente!"  />
+			<text id="cafe_error" name="¡Ten Cuidado!"  />
+			<text id="changepassword_error" name="Cambiar Contraseña"  />
+			<text id="changepassword_errorcode_0" name="¡Tu Contraseña ha sido cambiada correctamente!"  />
 			<text id="changepassword_errorcode_1" name="Error"  />
-			<text id="changepassword_errorcode_10" name="Esa no es tu antigua contraseña."  />
-			<text id="coop_errorcode_3" name="Estás en un nivel muy bajo para unirte a un Co-Op.\nDebes desbloquear una receta por lo menos."  />
-			<text id="coop_errorcode_7" name="Puedes unirte a este Co-Op hasta el nivel {0}"  />
+			<text id="changepassword_errorcode_10" name="Esta no es tu Contraseña antigua."  />
+			<text id="coop_errorcode_3" name="Tu Nivel es insuficiente para unirte a un Co-Op.\nNecesitas desbloquear una Receta como mínimo."  />
+			<text id="coop_errorcode_7" name="Puedes unirte a este Co-Op hasta el Nivel {0}."  />
 			<text id="coop_errorcode_85" name="Estos Co-Ops ya están llenos."  />
-			<text id="courier_error" name="Problemas en la entrega"  />
-			<text id="courier_errorcode_40" name="¡La capacidad de almacenamiento no alcanza!"  />
+			<text id="courier_error" name="Error en la entrega."  />
+			<text id="courier_errorcode_40" name="¡La capacidad de almacenamiento es insuficiente!"  />
 			<text id="courier_errorcode_42" name="Este Ingrediente ya está disponible en la Tienda ¡Echa un vistazo!"  />
-			<text id="courier_errorcode_43" name="El Expreso está lleno y no podrá realizar la entrega."  />
+			<text id="courier_errorcode_43" name="El Expreso está lleno y la entrega no fue realizada."  />
 			<text id="createavatar_error" name="¡Ten Cuidado!"  />
 			<text id="createavatar_errorcode_12" name="Este Nombre ya ha sido utilizado."  />
 			<text id="createavatar_errorcode_15" name="Este Usuario ya tiene Avatar."  />
